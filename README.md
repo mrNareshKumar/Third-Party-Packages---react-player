@@ -1,4 +1,4 @@
-# LIVE DEMO :-  <a href="https://npmreactplayer.ccbp.tech/">Alert Notifications</a>
+# LIVE DEMO :-  <a href="https://npmreactplayer.ccbp.tech/">React Player Example</a>
 
 # Third-Party Packages
 
